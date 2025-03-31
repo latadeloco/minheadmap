@@ -12,10 +12,10 @@ window.onload = () => {
     });
     /*document.addEventListener('mousemove', function (event) {
         store(event);
-    });*/
+    });
     document.addEventListener('touchstart', function (event) {
         store(event);
-    });
+    });*/
     /*document.addEventListener('touchend', function (event) {
         store(event);
     });*/
